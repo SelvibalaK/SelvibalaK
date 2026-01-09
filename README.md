@@ -14,3 +14,8 @@ Fun facts:
          - Night time is when my brain actually works
          - I switch between coding marathons and binge-watching series
          - Board games and mystery-solving games are my thing
+
+**Project Highlights:**
+- **Machine Learning Model:** Logistic Regression model trained on TF-IDF vectors to predict movie genres.
+- **Data Analysis:** Exploration of movie genre classification using natural language processing techniques.
+- **Internship Experience:** Developed during an internship at Codeway Solutions, gaining practical experience in machine learning and data analysis.
